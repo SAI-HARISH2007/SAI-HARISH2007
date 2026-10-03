@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 310" width="1200" height="310" role="img" aria-label="One greenlight run: alert, investigate, verify gate rejects until a probe runs, human approval, remediation">
+<defs>
+<filter id="glow" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<linearGradient id="trail" x1="0" x2="1"><stop offset="0" stop-color="#38bdf8"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+</defs>
+<rect width="1200" height="310" rx="18" fill="#0b1220" stroke="#1e293b"/>
+<text x="34" y="42" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#64748b">one run of greenlight, simplified</text>
+<text x="1166" y="42" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#64748b">the gate is plain code, not a prompt</text>
+<path d="M130 108 H1050" stroke="#1e293b" stroke-width="4" stroke-linecap="round"/>
+<path d="M130 108 V130" stroke="#1e293b" stroke-width="3"/><circle cx="130" cy="108" r="5" fill="#0b1220" stroke="#1e293b" stroke-width="2"/>
+<path d="M360 108 V130" stroke="#1e293b" stroke-width="3"/><circle cx="360" cy="108" r="5" fill="#0b1220" stroke="#1e293b" stroke-width="2"/>
+<path d="M590 108 V130" stroke="#1e293b" stroke-width="3"/><circle cx="590" cy="108" r="5" fill="#0b1220" stroke="#1e293b" stroke-width="2"/>
+<path d="M820 108 V130" stroke="#1e293b" stroke-width="3"/><circle cx="820" cy="108" r="5" fill="#0b1220" stroke="#1e293b" stroke-width="2"/>
+<path d="M1050 108 V130" stroke="#1e293b" stroke-width="3"/><circle cx="1050" cy="108" r="5" fill="#0b1220" stroke="#1e293b" stroke-width="2"/>
+<path d="M130 108 H1050" stroke="url(#trail)" stroke-width="2" stroke-dasharray="6 14" stroke-linecap="round" opacity="0.7"><animate attributeName="stroke-dashoffset" from="20" to="0" dur="1.2s" repeatCount="indefinite"/></path>
+<rect x="52" y="130" width="156" height="76" rx="16" fill="#0f1b2d" stroke="#1e293b"></rect>
+<text x="130" y="164" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="15" font-weight="700" fill="#e2e8f0" letter-spacing="1">ALERT</text>
+<text x="130" y="186" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#64748b">a page fires</text>
+<rect x="282" y="130" width="156" height="76" rx="16" fill="#0f1b2d" stroke="#1e293b"></rect>
+<text x="360" y="164" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="15" font-weight="700" fill="#e2e8f0" letter-spacing="1">INVESTIGATE</text>
+<text x="360" y="186" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#64748b">tools, logs, configs</text>
+<rect x="512" y="130" width="156" height="76" rx="16" fill="#0f1b2d" stroke="#38bdf8" stroke-width="2.5" filter="url(#glow)"><animate attributeName="stroke" calcMode="discrete" dur="16.0s" repeatCount="indefinite" keyTimes="0;0.22;0.31;0.55;0.7" values="#38bdf8;#f87171;#38bdf8;#34d399;#38bdf8"/></rect>
+<text x="590" y="164" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="15" font-weight="700" fill="#e2e8f0" letter-spacing="1">VERIFY GATE</text>
+<text x="590" y="186" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#64748b">probe, or no verdict</text>
+<rect x="742" y="130" width="156" height="76" rx="16" fill="#0f1b2d" stroke="#1e293b"></rect>
+<text x="820" y="164" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="15" font-weight="700" fill="#e2e8f0" letter-spacing="1">HUMAN OK</text>
+<text x="820" y="186" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#64748b">a person approves</text>
+<rect x="972" y="130" width="156" height="76" rx="16" fill="#0f1b2d" stroke="#1e293b"></rect>
+<text x="1050" y="164" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="15" font-weight="700" fill="#e2e8f0" letter-spacing="1">REMEDIATE</text>
+<text x="1050" y="186" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#64748b">only after approval</text>
+<circle r="10" fill="#38bdf8" filter="url(#glow)"><animateMotion dur="16.0s" repeatCount="indefinite" calcMode="linear" keyPoints="0;0.25;0.25;0.5;0.5;0.3;0.3;0.5;0.5;0.5;0.5;0.75;0.75;1;1;1" keyTimes="0;0.07;0.13;0.22;0.28;0.36;0.44;0.52;0.56;0.62;0.66;0.74;0.8;0.88;0.94;1" path="M130 108 H1050"/><animate attributeName="fill" calcMode="discrete" dur="16.0s" repeatCount="indefinite" keyTimes="0;0.23;0.31;0.58;0.7" values="#38bdf8;#f87171;#38bdf8;#34d399;#38bdf8"/><animate attributeName="opacity" dur="16.0s" repeatCount="indefinite" keyTimes="0;0.93;1" values="1;1;0"/></circle>
+<text x="590" y="86" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="14" font-weight="600" fill="#f87171" opacity="0">REJECTED · no probe has run yet<animate attributeName="opacity" calcMode="discrete" dur="16.0s" repeatCount="indefinite" keyTimes="0;0.22;0.33" values="0;1;0"/></text>
+<text x="360" y="234" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="14" font-weight="600" fill="#34d399" opacity="0">run_probe(http)<animate attributeName="opacity" calcMode="discrete" dur="16.0s" repeatCount="indefinite" keyTimes="0;0.36;0.5" values="0;1;0"/></text>
+<text x="590" y="86" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="14" font-weight="600" fill="#34d399" opacity="0">VERIFIED · a probe confirmed the cause<animate attributeName="opacity" calcMode="discrete" dur="16.0s" repeatCount="indefinite" keyTimes="0;0.58;0.72" values="0;1;0"/></text>
+<text x="820" y="234" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="14" font-weight="600" fill="#34d399" opacity="0">approved<animate attributeName="opacity" calcMode="discrete" dur="16.0s" repeatCount="indefinite" keyTimes="0;0.74;0.82" values="0;1;0"/></text>
+<text x="1050" y="234" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="14" font-weight="600" fill="#34d399" opacity="0">executed<animate attributeName="opacity" calcMode="discrete" dur="16.0s" repeatCount="indefinite" keyTimes="0;0.88;0.96" values="0;1;0"/></text>
+<text x="600.0" y="270" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="17" fill="#cbd5e1">Root-cause accuracy <tspan fill="#34d399" font-weight="700">83% → 100%</tspan> on 12 seeded incidents · <tspan fill="#34d399" font-weight="700">0%</tspan> unsafe actions</text>
+<text x="600.0" y="294" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#64748b">same model as the baseline; every number reproduces with no API calls</text>
+</svg>

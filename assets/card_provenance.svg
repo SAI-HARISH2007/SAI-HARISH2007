@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 224" width="560" height="224" role="img" aria-label="provenance: Gives greenlight long-term memory. A recalled memory is a claim, so a matching verdict is re-verified by a probe in the current incident.">
+<defs>
+<linearGradient id="g1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#a78bfa" stop-opacity="0.16"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/></linearGradient>
+<filter id="glow" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect x="1" y="1" width="558" height="222" rx="16" fill="#0b1220" stroke="#1e293b"/>
+<rect x="1" y="1" width="558" height="222" rx="16" fill="url(#g1)"/>
+<rect x="1" y="1" width="558" height="222" rx="16" fill="none" stroke="#a78bfa" stroke-width="2.2" pathLength="100" stroke-dasharray="16 84" stroke-linecap="round" filter="url(#glow)"><animate attributeName="stroke-dashoffset" from="0" to="-100" dur="7s" begin="-1.3s" repeatCount="indefinite"/></rect>
+<circle cx="30" cy="34" r="4" fill="#a78bfa"><animate attributeName="opacity" values="1;0.25;1" dur="2.4s" repeatCount="indefinite"/></circle>
+<text x="44" y="38" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12.5" letter-spacing="1.2" fill="#a78bfa">02 · AGENT MEMORY</text>
+<text x="28" y="76" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="29" font-weight="800" letter-spacing="-0.5" fill="#f1f5f9">provenance</text>
+<text x="28" y="104" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15.5" fill="#94a3b8">Gives greenlight long-term memory. A recalled memory is a claim, so</text>
+<text x="28" y="125" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15.5" fill="#94a3b8">a matching verdict is re-verified by a probe in the current</text>
+<text x="28" y="146" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15.5" fill="#94a3b8">incident.</text>
+<rect x="28" y="158" width="378" height="28" rx="14" fill="#a78bfa" fill-opacity="0.12" stroke="#a78bfa" stroke-opacity="0.45"/>
+<text x="42" y="177" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#a78bfa">6 incidents · 3 variants · failures documented</text>
+<rect x="28" y="192" width="89" height="22" rx="6" fill="#0f1b2d" stroke="#1e293b"/>
+<text x="72" y="207" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#64748b">Hindsight</text>
+<rect x="124.60000000000001" y="192" width="66" height="22" rx="6" fill="#0f1b2d" stroke="#1e293b"/>
+<text x="158" y="207" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#64748b">Docker</text>
+<rect x="199.0" y="192" width="66" height="22" rx="6" fill="#0f1b2d" stroke="#1e293b"/>
+<text x="232" y="207" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#64748b">Python</text>
+</svg>

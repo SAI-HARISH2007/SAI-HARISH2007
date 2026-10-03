@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 224" width="560" height="224" role="img" aria-label="SafeStep: Scores route safety from landmarks, lighting and crowds, with SOS alerts and live trip sharing. Team of 3, and I led it.">
+<defs>
+<linearGradient id="g2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#34d399" stop-opacity="0.16"/><stop offset="1" stop-color="#34d399" stop-opacity="0"/></linearGradient>
+<filter id="glow" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect x="1" y="1" width="558" height="222" rx="16" fill="#0b1220" stroke="#1e293b"/>
+<rect x="1" y="1" width="558" height="222" rx="16" fill="url(#g2)"/>
+<rect x="1" y="1" width="558" height="222" rx="16" fill="none" stroke="#34d399" stroke-width="2.2" pathLength="100" stroke-dasharray="16 84" stroke-linecap="round" filter="url(#glow)"><animate attributeName="stroke-dashoffset" from="0" to="-100" dur="8s" begin="-2.6s" repeatCount="indefinite"/></rect>
+<circle cx="30" cy="34" r="4" fill="#34d399"><animate attributeName="opacity" values="1;0.25;1" dur="2.4s" repeatCount="indefinite"/></circle>
+<text x="44" y="38" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12.5" letter-spacing="1.2" fill="#34d399">03 · APP + SELF AUDIT</text>
+<text x="28" y="76" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="29" font-weight="800" letter-spacing="-0.5" fill="#f1f5f9">SafeStep</text>
+<text x="28" y="104" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15.5" fill="#94a3b8">Scores route safety from landmarks, lighting and crowds, with SOS</text>
+<text x="28" y="125" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15.5" fill="#94a3b8">alerts and live trip sharing. Team of 3, and I led it.</text>
+<rect x="28" y="158" width="370" height="28" rx="14" fill="#34d399" fill-opacity="0.12" stroke="#34d399" stroke-opacity="0.45"/>
+<text x="42" y="177" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#34d399">My own audit: 81% of prompt injections worked</text>
+<rect x="28" y="192" width="74" height="22" rx="6" fill="#0f1b2d" stroke="#1e293b"/>
+<text x="65" y="207" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#64748b">Next.js</text>
+<rect x="109.80000000000001" y="192" width="66" height="22" rx="6" fill="#0f1b2d" stroke="#1e293b"/>
+<text x="143" y="207" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#64748b">Gemini</text>
+<rect x="184.20000000000002" y="192" width="81" height="22" rx="6" fill="#0f1b2d" stroke="#1e293b"/>
+<text x="225" y="207" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#64748b">Firebase</text>
+</svg>

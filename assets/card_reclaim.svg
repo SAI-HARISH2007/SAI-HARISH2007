@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 224" width="560" height="224" role="img" aria-label="Reclaim: Recovers failed payments. 114 Razorpay failure reasons resolve through an auditable rule table, and an LLM only sees the ambiguous ones.">
+<defs>
+<linearGradient id="g5" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fb923c" stop-opacity="0.16"/><stop offset="1" stop-color="#fb923c" stop-opacity="0"/></linearGradient>
+<filter id="glow" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect x="1" y="1" width="558" height="222" rx="16" fill="#0b1220" stroke="#1e293b"/>
+<rect x="1" y="1" width="558" height="222" rx="16" fill="url(#g5)"/>
+<rect x="1" y="1" width="558" height="222" rx="16" fill="none" stroke="#fb923c" stroke-width="2.2" pathLength="100" stroke-dasharray="16 84" stroke-linecap="round" filter="url(#glow)"><animate attributeName="stroke-dashoffset" from="0" to="-100" dur="8s" begin="-6.5s" repeatCount="indefinite"/></rect>
+<circle cx="30" cy="34" r="4" fill="#fb923c"><animate attributeName="opacity" values="1;0.25;1" dur="2.4s" repeatCount="indefinite"/></circle>
+<text x="44" y="38" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12.5" letter-spacing="1.2" fill="#fb923c">06 · PAYMENTS AGENT</text>
+<text x="28" y="76" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="29" font-weight="800" letter-spacing="-0.5" fill="#f1f5f9">Reclaim</text>
+<text x="28" y="104" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15.5" fill="#94a3b8">Recovers failed payments. 114 Razorpay failure reasons resolve</text>
+<text x="28" y="125" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15.5" fill="#94a3b8">through an auditable rule table, and an LLM only sees the ambiguous</text>
+<text x="28" y="146" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15.5" fill="#94a3b8">ones.</text>
+<rect x="28" y="158" width="294" height="28" rx="14" fill="#fb923c" fill-opacity="0.12" stroke="#fb923c" stroke-opacity="0.45"/>
+<text x="42" y="177" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#fb923c">Rules where correctness is knowable</text>
+<rect x="28" y="192" width="66" height="22" rx="6" fill="#0f1b2d" stroke="#1e293b"/>
+<text x="61" y="207" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#64748b">Python</text>
+<rect x="102.4" y="192" width="74" height="22" rx="6" fill="#0f1b2d" stroke="#1e293b"/>
+<text x="139" y="207" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#64748b">FastAPI</text>
+<rect x="184.20000000000002" y="192" width="81" height="22" rx="6" fill="#0f1b2d" stroke="#1e293b"/>
+<text x="225" y="207" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#64748b">Razorpay</text>
+</svg>
