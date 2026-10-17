@@ -393,6 +393,7 @@
 <rect x="884" y="112" width="13" height="13" rx="3.5" fill="#131c2e" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.80s" dur="0.35s" fill="freeze"/><title>0 on 2026-10-14</title></rect>
 <rect x="884" y="128" width="13" height="13" rx="3.5" fill="#131c2e" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.81s" dur="0.35s" fill="freeze"/><title>0 on 2026-10-15</title></rect>
 <rect x="884" y="144" width="13" height="13" rx="3.5" fill="#131c2e" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.82s" dur="0.35s" fill="freeze"/><title>0 on 2026-10-16</title></rect>
+<rect x="884" y="160" width="13" height="13" rx="3.5" fill="#131c2e" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.83s" dur="0.35s" fill="freeze"/><title>0 on 2026-10-17</title></rect>
 <rect x="755" y="79" width="15" height="15" rx="5" fill="#a7f3d0" filter="url(#bloom)" opacity="0.5"><animate attributeName="opacity" values="0.25;0.9;0.25" dur="3.2s" begin="-0.39s" repeatCount="indefinite"/></rect>
 <rect x="867" y="127" width="15" height="15" rx="5" fill="#22d3ee" filter="url(#bloom)" opacity="0.5"><animate attributeName="opacity" values="0.25;0.9;0.25" dur="3.2s" begin="-0.11s" repeatCount="indefinite"/></rect>
 <rect x="867" y="143" width="15" height="15" rx="5" fill="#a7f3d0" filter="url(#bloom)" opacity="0.5"><animate attributeName="opacity" values="0.25;0.9;0.25" dur="3.2s" begin="-0.22s" repeatCount="indefinite"/></rect>
@@ -766,8 +767,9 @@
 <rect x="884" y="112" width="13" height="13" rx="3.5" fill="#22d3ee" opacity="0" pointer-events="none"><animate attributeName="opacity" values="0;0.16;0;0" keyTimes="0;0.05;0.16;1" dur="9.0s" begin="6.26s" repeatCount="indefinite"/></rect>
 <rect x="884" y="128" width="13" height="13" rx="3.5" fill="#22d3ee" opacity="0" pointer-events="none"><animate attributeName="opacity" values="0;0.16;0;0" keyTimes="0;0.05;0.16;1" dur="9.0s" begin="6.28s" repeatCount="indefinite"/></rect>
 <rect x="884" y="144" width="13" height="13" rx="3.5" fill="#22d3ee" opacity="0" pointer-events="none"><animate attributeName="opacity" values="0;0.16;0;0" keyTimes="0;0.05;0.16;1" dur="9.0s" begin="6.29s" repeatCount="indefinite"/></rect>
-<circle cx="890.5" cy="150.5" r="8" fill="none" stroke="#34d399" stroke-width="1.6"><animate attributeName="r" values="7;17" dur="2.4s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="0.9;0" dur="2.4s" repeatCount="indefinite"/></circle>
-<rect x="882.5" y="142.5" width="16" height="16" rx="4.5" fill="none" stroke="#34d399" stroke-width="1.5"/>
+<rect x="884" y="160" width="13" height="13" rx="3.5" fill="#22d3ee" opacity="0" pointer-events="none"><animate attributeName="opacity" values="0;0.16;0;0" keyTimes="0;0.05;0.16;1" dur="9.0s" begin="6.31s" repeatCount="indefinite"/></rect>
+<circle cx="890.5" cy="166.5" r="8" fill="none" stroke="#34d399" stroke-width="1.6"><animate attributeName="r" values="7;17" dur="2.4s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="0.9;0" dur="2.4s" repeatCount="indefinite"/></circle>
+<rect x="882.5" y="158.5" width="16" height="16" rx="4.5" fill="none" stroke="#34d399" stroke-width="1.5"/>
 <text x="28" y="210" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#94a3b8"><tspan fill="#22d3ee">56</tspan> active days   <tspan fill="#22d3ee">5</tspan> day best streak   <tspan fill="#22d3ee">17</tspan> in the busiest day</text>
 <text x="749" y="210" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="11" fill="#64748b">less</text>
 <rect x="759" y="199" width="13" height="13" rx="3.5" fill="#131c2e"/>
